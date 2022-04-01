@@ -12,7 +12,7 @@ export default class Main extends Component {
                 <Header />
               </div>
           </div>
-          <div className="row">
+          <div className="row mb-5">
               <Body/>
           </div>
           <div className="row">
